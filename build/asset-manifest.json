@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.f8447fbe.css",
-    "main.js": "/static/js/main.f3179ecc.js",
+    "main.js": "/static/js/main.974f6854.js",
     "static/js/453.e0b89b70.chunk.js": "/static/js/453.e0b89b70.chunk.js",
     "static/media/backgroundVid.mp4": "/static/media/backgroundVid.14ab3a8850c56a319772.mp4",
     "static/media/airplane.jpg": "/static/media/airplane.c0c517b45fcf50f9438a.jpg",
+    "static/media/person_1.jpg": "/static/media/person_1.51e12b983531f6559126.jpg",
+    "static/media/person_2.jpg": "/static/media/person_2.0f507c4f9b62a3aca7d4.jpg",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/bg-doctor.png": "/static/media/bg-doctor.11f7b0f28aa7258d486d.png",
@@ -39,11 +41,11 @@
     "static/media/dogecoin.svg": "/static/media/dogecoin.71886046079dc5a5299489a7e95b7555.svg",
     "static/media/usdt.svg": "/static/media/usdt.d8f170d67df12f7ffcdbab2979ab9543.svg",
     "main.f8447fbe.css.map": "/static/css/main.f8447fbe.css.map",
-    "main.f3179ecc.js.map": "/static/js/main.f3179ecc.js.map",
+    "main.974f6854.js.map": "/static/js/main.974f6854.js.map",
     "453.e0b89b70.chunk.js.map": "/static/js/453.e0b89b70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8447fbe.css",
-    "static/js/main.f3179ecc.js"
+    "static/js/main.974f6854.js"
   ]
 }
